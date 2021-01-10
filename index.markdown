@@ -8,4 +8,4 @@ header:
     image: "/assets/images/background.jpg"
 ---
 
-You can include some high-level introductory stuff here.
+You can include some high-level introductory stuff here. Like your [resume](/assets/resume.pdf).
